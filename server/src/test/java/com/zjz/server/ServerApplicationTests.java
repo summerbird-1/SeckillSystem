@@ -1,10 +1,10 @@
-package com.zjz.serve;
+package com.zjz.server;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ServeApplicationTests {
+class ServerApplicationTests {
 
     @Test
     void contextLoads() {
