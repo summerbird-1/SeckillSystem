@@ -5,14 +5,14 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>3.1.2</version>
+        <version>3.1.7</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.zjz</groupId>
-    <artifactId>seckillServe</artifactId>
+    <artifactId>serve</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>seckillServe</name>
-    <description>seckillServe</description>
+    <name>serve</name>
+    <description>serve</description>
     <properties>
         <java.version>17</java.version>
     </properties>

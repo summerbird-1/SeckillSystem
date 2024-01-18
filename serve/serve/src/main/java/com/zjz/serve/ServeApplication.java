@@ -1,13 +1,13 @@
-package com.zjz.seckillserve;
+package com.zjz.serve;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SeckillServeApplication {
+public class ServeApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SeckillServeApplication.class, args);
+        SpringApplication.run(ServeApplication.class, args);
     }
 
 }
